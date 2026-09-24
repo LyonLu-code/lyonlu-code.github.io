@@ -1,0 +1,20 @@
+scheme: Muse
+
+# 暗色模式
+darkmode:
+  enable: true
+
+# 导航菜单
+menu:
+  home: / || fa fa-home
+  tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
+  archives: /archives/ || fa fa-archive
+
+# 本地搜索
+local_search:
+  enable: true
+
+# FontAwesome图标
+fontawesome:
+  enable: true
